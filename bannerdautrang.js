@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='http://goo.gl/rKJWvA' target='_blank'><img src='hhttps://4.bp.blogspot.com/-hYrY2F8Budw/Wjnp1-ZthYI/AAAAAAAAAok/9HhecDhu5sIoyZf8cIRcZU-mnCmqjFIkgCLcBGAs/s1600/11.gif' width='500px'/><br/>13 Kỹ thuật đẩy top vượt trội</a>. Học tại nhà CEO Faceseo. <h2><a class='close-nguyentrong-modal'>X</a></h2>");
+			$("#myModal").html("<a href='http://goo.gl/rKJWvA' target='_blank'><img src='https://nhaccuvietthanh.com/wp-content/uploads/2017/10/cua-hang-nhac-cu-go-vap-viet-thanh.jpg' width='500px'/><br/>GỌI LẤY MÃ GIẢM GIÁ 10% KHI MUA ĐÀN PIANO</a>. HOTLINE 0909 736 782. <h2><a class='close-nguyentrong-modal'>X</a></h2>");
 			$('#myModal').nguyentrong($('#myModal').data());
 		}
 });
