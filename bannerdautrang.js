@@ -1,5 +1,5 @@
 //please contact me vietthanh.nguyentrong@gmail.com
-//website https://vietthanhmusic.vn/ or https://nhaccuvietthanh.com/
+//website http://thoitrangphuyen.com/ or http://thoitrangphuyen.xyz
 
 (function($) {
     $.fn.nguyentrong = function(options) {        
@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='http://goo.gl/rKJWvA' target='_blank'><img src='https://nhaccuvietthanh.com/wp-content/uploads/2017/10/cua-hang-nhac-cu-go-vap-viet-thanh.jpg' width='500px'/><br/>GỌI LẤY MÃ GIẢM GIÁ 10% KHI MUA ĐÀN PIANO</a>. HOTLINE 0909 736 782. <h2><a class='close-nguyentrong-modal'>X</a></h2>");
+			$("#myModal").html("<a href='http://goo.gl/rKJWvA' target='_blank'><img src='https://3.bp.blogspot.com/-vYbd-9tOnDU/Wjp0dfNOgvI/AAAAAAAAACE/u_kHc86pJY8Pbr0OWkj0kchG37NrLnP5wCLcBGAs/s400/thoi-trang-phu-yen.jpg' width='500px'/><br/>GỌI NGAY 0902 894 612</a>. ĐỂ LẤY MÃ GIẢM GIÁ 10%. <h2><a class='close-nguyentrong-modal'>X</a></h2>");
 			$('#myModal').nguyentrong($('#myModal').data());
 		}
 });
