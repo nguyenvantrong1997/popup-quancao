@@ -1,4 +1,4 @@
-//please contact me vietthanh.nguyentrong@gmail.com
+//please contact me thoitrangphuyen@gmail.com
 //website http://thoitrangphuyen.com/ or http://thoitrangphuyen.xyz
 
 (function($) {
