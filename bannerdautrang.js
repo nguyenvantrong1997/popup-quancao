@@ -1,5 +1,5 @@
 //please contact me thoitrangphuyen@gmail.com
-//website http://thoitrangphuyen.com/ or http://thoitrangphuyen.xyz
+//website https://vietthanhmusic.vn/ or https://nhaccuvietthanh.com/
 
 (function($) {
     $.fn.nguyentrong = function(options) {        
@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='http://goo.gl/rKJWvA' target='_blank'><img src='https://3.bp.blogspot.com/-vYbd-9tOnDU/Wjp0dfNOgvI/AAAAAAAAACE/u_kHc86pJY8Pbr0OWkj0kchG37NrLnP5wCLcBGAs/s400/thoi-trang-phu-yen.jpg' width='500px'/><br/>GỌI NGAY 0902 894 612</a>. ĐỂ LẤY MÃ GIẢM GIÁ 10%. <h2><a class='close-nguyentrong-modal'>X</a></h2>");
+			$("#myModal").html("<a href='https://1.bp.blogspot.com/-tcdO8PNTCyk/Wdbq0u_YJmI/AAAAAAAAAZQ/XWfJ-plM09sqYtUiWawcA_LSYJ1jyLPFQCLcBGAs/s1600/cua-hang-nhac-cu-viet-thanh-1.jpg' width='500px'/><br/>GỌI NGAY 0909 736 782 Ms Hương</a>. ĐỂ LẤY MÃ GIẢM GIÁ 10%. <h2><a class='close-nguyentrong-modal'>X</a></h2>");
 			$('#myModal').nguyentrong($('#myModal').data());
 		}
 });
