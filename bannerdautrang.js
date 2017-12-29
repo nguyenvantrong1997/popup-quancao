@@ -1,4 +1,4 @@
-//please contact me thoitrangphuyen@gmail.com
+//please contact me vietthanh.nguyentrong@gmail.com
 //website https://vietthanhmusic.vn/ or https://nhaccuvietthanh.com/
 
 (function($) {
